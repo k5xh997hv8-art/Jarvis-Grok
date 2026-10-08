@@ -4,7 +4,7 @@ Key moments, with sources. Times are UK time. "Grok chat" means Tommy's own grok
 
 ## 2025
 
-- **3 Dec 2025.** GrokOmega first appears on GitHub, in Tommy's earlier public repo ("GROKOMEGA: Self-evolving agent swarms"). Source: commit e9fd236 in that repo.
+- **3 Dec 2025.** GrokOmega first appears on GitHub, in Tommy's earlier public repo ("GROKOMEGA: Self-evolving agent swarms").
 - **13 Dec 2025.** XiCore and GrokOmega are named together for the first time. Tommy, in a Grok chat: "Grokomega is the core of XiCore". The same day on X: ["GrokOmega acknowledged, XiCore awakened."](https://x.com/ThomasMalo26860/status/1999860490806108243)
 
 ## 2026
