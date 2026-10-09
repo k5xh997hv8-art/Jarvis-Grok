@@ -85,8 +85,11 @@ A public record is harder to quietly rewrite, and it shows your work over time. 
 
 The [Intent Ledger](intent-ledger/) does steps 4 and 5 for you on your own computer. Proposals wait in a queue, nothing is saved without your approve, a veto is final, and any later edit to the record is caught.
 
+First check you have Python 3.9 or newer (`python3 --version`), then get a copy of this repo, either with git or by using the green Code button on GitHub and choosing Download ZIP.
+
 ```bash
-cd intent-ledger
+git clone https://github.com/k5xh997hv8-art/Jarvis-Grok.git
+cd Jarvis-Grok/intent-ledger
 python3 example.py
 python3 intent_ledger.py propose "Weekly review every Sunday at 18:00."
 python3 intent_ledger.py pending

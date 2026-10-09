@@ -36,12 +36,13 @@
 | [STARTER.md](STARTER.md) | Build your own Jarvis-style layer on Grok: name, rules, morning anchor, propose then veto, keep a record. |
 | [TIMELINE.md](TIMELINE.md) | Key dated moments, with sources. |
 
-## Run the Intent Ledger (2 commands)
+## Run the Intent Ledger
 
-Needs Python 3.9 or newer. Nothing to install.
+Needs Python 3.9 or newer (check with `python3 --version`). Nothing else to install.
 
 ```bash
-cd intent-ledger
+git clone https://github.com/k5xh997hv8-art/Jarvis-Grok.git
+cd Jarvis-Grok/intent-ledger
 python3 example.py              # one-minute walk through
 python3 -m unittest -v          # run the tests
 ```
